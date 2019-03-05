@@ -26,4 +26,6 @@ Hasil _benchmarking_ dapat dilihat pada file `benchmark.txt`. Benchmark dilakuka
 
 Berikut adalah hasil _benchmark_ dalam bentuk grafik
 
-![benchmark](https://raw.githubusercontent.com/miun173/analgo-01/master/tugas-kelas/searching/image/benchmark-chart.jpg)
+![benchmark](https://raw.githubusercontent.com/IbnuAhsani/analgo-01/master/tugas-kelas/searching/image/benchmark-chart-2.png)
+
+Kami melakukan pengujian sebanyak 10 kali dengan jumlah data yang beragam, mulai dari 10 hingga 100.000 data. Berdasarkan grafik di atas, pada pengujian yang melibatkan 10 data, Binary Search membutuhkan waktu yang lebih lama dibandingkan Linear Search. Namun pada pengujian yang melibatkan lebih dari 50 data, justru performa Binary Search lebih stabil dibandingkan Linear Search. Oleh karena itu, dapat dikatakan bahwa kompleksitas waktu Linear Search lebih besar dibandingkan Binary Search.
