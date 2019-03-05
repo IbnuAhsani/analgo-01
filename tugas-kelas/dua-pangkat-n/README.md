@@ -20,3 +20,6 @@ Hasil _benchmarking_ dapat dilihat pada file `benchmark.txt`. Benchmark dilakuka
 Berikut adalah hasil _benchmark_ dalam bentuk grafik
 
 ![benchmark](https://raw.githubusercontent.com/miun173/analgo-01/master/tugas-kelas/dua-pangkat-n/image/benchmark-chart.jpg)
+
+Berdasarkan grafik di atas yang merupakan hasil dari running program, kami mendapatkan hasil bahwa metode Rekursif lebih lambat dibandingkan dengan metode Looping. Karena jika dilihat dari segi kompleksitas algoritmanya, kedua metode ini memiliki kompleksitas yang berbeda. Fungsi pangkat dengan metode Looping akan selalu diselesaikan dalam _n_ langkah. Dengan kata lain
+kecepatan dan efisiensi dari fungsi Looping bergantung pada nilai _n_. Sedangkan untuk Rekursif, kompleksitas waktu dihitung dari jumlah operasi perkalian yang dilakukan.
