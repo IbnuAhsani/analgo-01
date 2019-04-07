@@ -1,0 +1,21 @@
+Mensortir array dengan elemen sebanyak 100
+Waktu yang dibutuhkan metode Linear: 45445 nanoseconds
+
+Mensortir array dengan elemen sebanyak 200
+Waktu yang dibutuhkan metode Linear: 103025 nanoseconds
+
+Mensortir array dengan elemen sebanyak 400
+Waktu yang dibutuhkan metode Linear: 213879 nanoseconds
+
+Mensortir array dengan elemen sebanyak 500
+Waktu yang dibutuhkan metode Linear: 249897 nanoseconds
+
+Mensortir array dengan elemen sebanyak 700
+Waktu yang dibutuhkan metode Linear: 374113 nanoseconds
+
+Mensortir array dengan elemen sebanyak 800
+Waktu yang dibutuhkan metode Linear: 454330 nanoseconds
+
+Mensortir array dengan elemen sebanyak 1000
+Waktu yang dibutuhkan metode Linear: 639571 nanoseconds
+
