@@ -1,0 +1,28 @@
+Mencari nilai 32 pada array berisi 100 elemen.
+Waktu yang dibutuhkan metode Linear: 1552 nanoseconds
+Waktu yang dibutuhkan metode Biner: 854 nanoseconds
+
+Mencari nilai 100 pada array berisi 200 elemen.
+Waktu yang dibutuhkan metode Linear: 1745 nanoseconds
+Waktu yang dibutuhkan metode Biner: 1766 nanoseconds
+
+Mencari nilai 230 pada array berisi 400 elemen.
+Waktu yang dibutuhkan metode Linear: 3487 nanoseconds
+Waktu yang dibutuhkan metode Biner: 3425 nanoseconds
+
+Mencari nilai 487 pada array berisi 500 elemen.
+Waktu yang dibutuhkan metode Linear: 6605 nanoseconds
+Waktu yang dibutuhkan metode Biner: 6651 nanoseconds
+
+Mencari nilai 601 pada array berisi 700 elemen.
+Waktu yang dibutuhkan metode Linear: 8354 nanoseconds
+Waktu yang dibutuhkan metode Biner: 8131 nanoseconds
+
+Mencari nilai 700 pada array berisi 800 elemen.
+Waktu yang dibutuhkan metode Linear: 9357 nanoseconds
+Waktu yang dibutuhkan metode Biner: 9320 nanoseconds
+
+Mencari nilai 220 pada array berisi 1000 elemen.
+Waktu yang dibutuhkan metode Linear: 3291 nanoseconds
+Waktu yang dibutuhkan metode Biner: 3268 nanoseconds
+
